@@ -40,3 +40,5 @@ npm-windows-upgrade
 > Referensi: 
 https://github.com/felixrieseberg/npm-windows-upgrade
 
+## Build package
+Jalankan perintah berikut dalam folder project ```npm run build```
