@@ -26,6 +26,9 @@ npm outdated -g
 npm outdated 
 ```
 
+## Build package
+Jalankan perintah berikut dalam folder project ```npm run build```
+
 ## Cara mudah update `npm` di Windows lewat PowerShell
 1. Buka PowerShell dengan opsi **Run as Administrator**
 2. Ketik `Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force`
@@ -40,5 +43,3 @@ npm-windows-upgrade
 > Referensi: 
 https://github.com/felixrieseberg/npm-windows-upgrade
 
-## Build package
-Jalankan perintah berikut dalam folder project ```npm run build```
