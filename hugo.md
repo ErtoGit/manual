@@ -20,7 +20,7 @@ Eksekusi kembali poin 2, tiap kali ada perubahan pada kode.
 1. Pastikan `"public": "public"` di file `firebase.json` sudah sama dengan `publishDir` di file `config.toml`.
 2. Login dengan `firebase login`
 3. Aktifkan dengan `firebase init`
-4. Edit file `firebase.json` sesuai panduan.
+4. Edit file `firebase.json` sesuai panduan. [Cek disini](/firebase.html#deploy-multisite-dalam-project-di-hosting).
 5. Akhiri dengan `firebase deploy --only hosting:<nama_app>`
 
 Untuk re-deploy saat ada perubahan pada kode, jalankan perintah,
