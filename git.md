@@ -34,4 +34,6 @@ git pull origin master --allow-unrelated-histories
 ```
 
 ### Mengganti url remote repo
-`git remote set-url origin <GIT_REPO_BARU>`
+```
+git remote set-url origin <GIT_REPO_BARU>
+```

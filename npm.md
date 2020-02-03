@@ -26,7 +26,7 @@ npm outdated -g
 npm outdated 
 ```
 
-## Build package
+### Build package
 Jalankan perintah berikut dalam folder project ```npm run build```
 
 ## Cara mudah update `npm` di Windows lewat PowerShell
