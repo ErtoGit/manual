@@ -1,10 +1,8 @@
-# Manual untuk `firebase`
-
 ## Perintah umum
 Untuk bantuan ketik `firebase help`.
 
 ### Deploy project ke hosting
-```
+```bash
 firebase login
 firebase init
 firebase deploy
@@ -15,7 +13,7 @@ firebase deploy
 2. Jalankan command `firebase login` dalam folder project
 3. Setelah itu `firebase init` dan ikuti langkahnya.
 4. Edit file `firebase.json` dan tambahkan baris berikut
-```
+```json
 ...
     "hosting": {
         "site": "nama_project_di_hosting",
