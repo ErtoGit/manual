@@ -1,5 +1,5 @@
 # Manual CLI
-Kumpulan cli yang sering digunakan untuk beberapa framework. Salinan dari [CLI.my.id](https://cli.my.id).
+Kumpulan perintah cli yang sering digunakan untuk beberapa framework. _Clone repo_ dari [CLI.my.id](https://cli.my.id).
 
 1. [Firebase](firebase.md)
 2. [Git](git.md)
