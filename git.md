@@ -5,15 +5,13 @@
 - [Mengecek alamat remote git url](#mengecek-alamat-repo-git-url)
 - [Push data ke remote git](#push-data-ke-remote-git)
 - [Pull data dari remote git](#pull-data-dari-remote-git)
-- [Mengganti url remote repo](#menggantiurlremoterepo)
-- [Clone repo](#clonerepo)
-
----
+- [Mengganti url remote repo](#mengganti-url-remote-repo)
+- [Clone repo](#clone-repo)
 
 ## Perintah umum
 Untuk bantuan ketik `git help`.
 
-### <a name="membuat-repo-baru">Membuat repo baru</a>
+### <a name="membuat-repo-baru"></a>Membuat repo baru
 Jalankan perintah berikut dalam folder project.
 ```bash
 git init
@@ -67,7 +65,7 @@ git pull github master
 git remote set-url origin <GIT_REPO_BARU>
 ```
 
-### <a name="clonerepo"></a>Clone repo
+### <a name="clone-repo"></a>Clone repo
 ```bash
 git clone <GIT_REPO_URL>
 ```

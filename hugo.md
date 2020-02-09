@@ -11,8 +11,6 @@
     - [Firebase](#deployment-firebase)
     - [Netlify](#deployment-netlify)
 
----
-
 ## <a name="perintah-umum"></a>Perintah umum
 
 Untuk bantuan ketik `hugo help`.
