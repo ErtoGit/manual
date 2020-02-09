@@ -15,5 +15,4 @@ Kumpulan perintah cli yang sering digunakan untuk beberapa framework. _Clone rep
 URL | Powered by
 ---------|----------
  https://git.erto.co/manual/ | [Github](https://git.erto.co/manual/)
- https://manual.now.sh/ | [ZEIT](https://manual.now.sh/)
  https://manual.smvi.co/ | [Small Victories](https://manual.smvi.co/)
