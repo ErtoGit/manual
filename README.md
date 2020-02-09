@@ -9,3 +9,11 @@ Kumpulan perintah cli yang sering digunakan untuk beberapa framework. _Clone rep
 6. [Npm](npm.md)
 7. [Vue-cli](vue-cli.md)
 8. [Other](other.md)
+
+# Demo site
+
+URL | Powered by
+---------|----------
+ https://git.erto.co/manual/ | [Github](https://git.erto.co/manual/)
+ https://manual.now.sh/ | [ZEIT](https://manual.now.sh/)
+ https://manual.smvi.co/ | [Small Victories](https://manual.smvi.co/)
