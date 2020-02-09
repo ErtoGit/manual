@@ -1,4 +1,4 @@
-`Now` adalah tool untuk deploy static site ke [ZEIT](https://zeit.co).  
+`now` adalah tool untuk deploy static site ke [ZEIT](https://zeit.co).  
 Live demo: https://manual.now.sh
 
 ## Instalasi
