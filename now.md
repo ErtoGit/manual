@@ -1,27 +1,9 @@
-`now` adalah tool untuk deploy static site ke [ZEIT](https://zeit.co).  
-Live demo: https://manual.now.sh
+---
+title: 'Now'
+date: '2020-05-19'
+draft: false
+weight: 1
+summary: Manual untuk `now`.
+---
 
-## Instalasi
-```bash
-npm install -g now
-```
-
-## Perintah umum
-Untuk bantuan ketik `now help`.
-
-### Deploy ke ZEIT
-Jalankan command berikut dalam folder project.
-```bash
-now
-```
-
-### Update project
-Jalankan command berikut dalam folder project.
-```bash
-now --prod
-```
-
-### Local server
-```bash
-now dev
-```
+`now` berganti nama menjadi `vercel` sejak Mei 2020. Lanjutkan ke [Vercel](/manual/vercel/).  
