@@ -71,6 +71,12 @@ hugo new site <PROJECT_NAME>
 hugo build
 ```
 
+### Membuat konten baru
+
+```bash
+hugo new <PATH>/index.md
+```
+
 ### Local server
 
 ```bash
