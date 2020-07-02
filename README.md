@@ -1,4 +1,5 @@
 # Manual CLI
+
 Kumpulan perintah cli yang sering digunakan untuk beberapa framework. _Clone repo_ dari [GNU.my.id](https://gnu.my.id).
 
 1. [Firebase](firebase.md)
@@ -9,11 +10,12 @@ Kumpulan perintah cli yang sering digunakan untuk beberapa framework. _Clone rep
 1. [Nextcloud](nextcloud.md)
 1. [Now](now.md)
 1. [Npm](npm.md)
+1. [PowerShell](powershell.md)
 1. [Vercel](vercel.md)
 1. [Vue-cli](vue-cli.md)
 1. [Other](other.md)
 
-# Demo site
+## Demo site
 
 URL | Powered by
 ---------|----------
