@@ -7,7 +7,7 @@ summary: Manual untuk `vercel`.
 ---
 
 `vercel` adalah tool untuk deploy static site ke ~~ZEIT~~ [Vercel](https://vercel.com).  
-Live demo: <https://manual.vercel.app>
+Live demo: <https://manual.now.sh>
 
 ## Instalasi
 
