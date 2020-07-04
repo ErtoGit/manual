@@ -1,6 +1,6 @@
 # Manual CLI
 
-Kumpulan perintah cli yang sering digunakan untuk beberapa framework. _Clone repo_ dari [GNU.my.id](https://gnu.my.id).
+Kumpulan perintah cli yang sering digunakan untuk beberapa framework.
 
 1. [Firebase](firebase.md)
 1. [Git](git.md)
