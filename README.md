@@ -19,5 +19,5 @@ Kumpulan perintah cli yang sering digunakan untuk beberapa framework.
 
 URL | Powered by
 ---------|----------
- https://git.erto.co/manual/ | [Github](https://git.erto.co/manual/)
+ https://ertomedia.net/manual/ | [Github](https://ertomedia.net/manual/)
  https://manual.smvi.co/ | [Small Victories](https://manual.smvi.co/)
