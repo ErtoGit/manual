@@ -79,3 +79,21 @@ git remote set-url origin <GIT_REPO_BARU>
 ```bash
 git clone <GIT_REPO_URL>
 ```
+
+### Buat branch baru
+
+```bash
+git checkout -b <NAMA_BRANCH>
+```
+
+### Pindah ke branch lain
+
+```bash
+git checkout <NAMA_BRANCH>
+```
+
+### Merge perubahan dari branch lain
+
+```bash
+git merge <NAMA_BRANCH>
+```
