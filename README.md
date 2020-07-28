@@ -2,6 +2,7 @@
 
 Kumpulan perintah cli yang sering digunakan untuk beberapa framework.
 
+1. [Chocolatey](chocolatey.md)
 1. [Firebase](firebase.md)
 1. [Git](git.md)
 1. [Heroku](heroku.md)
