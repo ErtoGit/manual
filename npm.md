@@ -67,6 +67,25 @@ Jalankan perintah berikut dalam folder project
 npm run build
 ```
 
+### Semantic Versioning
+
+Jalankan perintah berikut dalam folder project
+
+```bash
+npm version major
+# OR
+npm version minor
+# OR
+npm version patch
+```
+
+### Publish npm packages
+
+```bash
+npm login
+npm publish
+```
+
 ---
 
 ## Troubleshooting
